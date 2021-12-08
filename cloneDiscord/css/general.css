@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+    --text-color: #23272a;
+    --bg-white: #ffffff;
+    --bg-gray: #f6f6f6;
+    --bg-blue: #5865f2;
+    font-family: 'Readex Pro', sans-serif;
+}
